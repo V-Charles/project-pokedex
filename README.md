@@ -52,7 +52,7 @@ pokedex-explorer/
 **Steps:**
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/v-charles/pokedex-explorer.git](https://github.com/v-charles/pokedex-explorer.git)
+   git clone git@github.com:V-Charles/pokedex-explorer.git
 2. **Open the project:**
    * Simply open the `index.html` file in your browser, or:
    * If using VS Code, right-click `index.html` and select **"Open with Live Server"**.
