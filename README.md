@@ -16,8 +16,8 @@ The application is live and can be accessed here:
 
 ---
 
-### 📷 Visual Proof
-<img width="1261" height="939" alt="Image" src="https://github.com/user-attachments/assets/5e613dab-31e1-4072-af42-ae9ddb261b3a" />
+### 📷 Preview
+<img width="800" height="450" alt="gravacao-pokedex-ezgif com-optimize" src="https://github.com/user-attachments/assets/d6dcc045-8895-4388-8c55-2ea5645e0072" />
 
 ---
 
